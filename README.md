@@ -20,14 +20,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-![](https://i.imgur.com/7aHblzc.png) 
+![](https://i.imgur.com/7aHblzc.png)   
 
-- Você pode acessar o projeto clicando <a href="instagram-isr3e4myh-lellismaria.vercel.app">aqui</a>.
+- Você pode acessar o projeto clicando <a href="https://instagram-dio-rho.vercel.app/">aqui</a>.
 
 ---
 
 ### 📝 Licença
 
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
+
 ---
+
 Criado com 💙 por [Maria Emília](https://github.com/lellismaria)
